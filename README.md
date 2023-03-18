@@ -1,3 +1,3 @@
 # df-mod1-autopsy
-file:///C:/Users/S539334/Desktop/Digital%20Forensics/Erik%20Kellgren%20P1/Reports/Erik%20Kellgren%20P1%20HTML%20Report%2003-17-2023-16-30-28/report.html
-
+![Capture1](https://user-images.githubusercontent.com/99350219/226080919-689b4529-1296-4ced-b536-0eccaedfa415.JPG)
+![Capture2](https://user-images.githubusercontent.com/99350219/226080980-3eb7212c-37f4-42ac-b016-1d153794b880.JPG)
